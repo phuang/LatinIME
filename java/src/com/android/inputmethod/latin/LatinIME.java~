@@ -77,8 +77,8 @@ import java.util.Locale;
  */
 public class LatinIME extends InputMethodServiceCompatWrapper implements KeyboardActionListener,
         SuggestionsView.Listener {
-    private static final String TAG = LatinIME.class.getSimpleName();
-    // private static final String TAG = "PENGH";
+    // private static final String TAG = LatinIME.class.getSimpleName();
+    private static final String TAG = "PENGH";
     private static final boolean PERF_DEBUG = false;
     private static final boolean TRACE = false;
     private static boolean DEBUG;
